@@ -3,6 +3,7 @@ import '../screens/splash_screen.dart';
 import '../screens/register_screen.dart';
 import '../screens/login_screen.dart';
 
+
 class RouteManager {
   static const String splashScreen = "/";
   static const String registerScreen = "/registerScreen";
